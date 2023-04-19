@@ -11,7 +11,7 @@
 
 新建NEXT语言仓库，将以下代码粘贴至Replit Shell后回车
 
-`git clone https://github.com/valetzx/onedrivereplindex && mv -b onedrivereplindex/* ./ && mv -b onedrivereplindex/.[^.]* ./ && rm -rf *~ && rm -rf onedrivereplindex`
+`git clone https://github.com/histb/onedrivereplindex && mv -b onedrivereplindex/* ./ && mv -b onedrivereplindex/.[^.]* ./ && rm -rf *~ && rm -rf onedrivereplindex`
 
 当加载完 Loading Nix environment... 后点击绿色 ▶ Run
 
