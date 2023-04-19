@@ -1,5 +1,5 @@
 rm -rf onedrive 
-git clone https://github.com/spencerwooo/onedrive-vercel-index onedrive
+git clone https://github.com/histb/dl-histb onedrive
 
 #第一次运行完成后请注释掉以上指令！！！
 
